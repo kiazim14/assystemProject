@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="assystem-angular-spring-boot-security">
+    <output-path>$PROJECT_DIR$/out/artifacts/assystem_angular_spring_boot_security</output-path>
+    <root id="root">
+      <element id="archive" name="assystem_angular_spring_boot_security.jar">
+        <element id="module-output" name="assystem-angular-spring-boot-security" />
+      </element>
+    </root>
+  </artifact>
+</component>

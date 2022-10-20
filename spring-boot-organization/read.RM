@@ -1,0 +1,16 @@
+
+-- TO COMPILE WIH TEST
+
+mvn clean install
+
+-- TO COMPILE WIHOUT TEST
+
+mvn clean install -Dmaven.test.skip=true
+
+-- to run project use  :
+
+mvn spring-boot:run
+
+-- to run from browser   use this URL  :
+
+http://localhost:8085/swagger-ui.html
