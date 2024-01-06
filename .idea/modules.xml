@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/angular-spring-boot/angular-spring-boot.iml" filepath="$PROJECT_DIR$/angular-spring-boot/angular-spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-ecommerce/ecommerceapp.iml" filepath="$PROJECT_DIR$/spring-boot-ecommerce/ecommerceapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/pom-parent/pom-parent.iml" filepath="$PROJECT_DIR$/pom-parent/pom-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-organization/spring-boot-organisation.iml" filepath="$PROJECT_DIR$/spring-boot-organization/spring-boot-organisation.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-organization/spring-boot-organization.iml" filepath="$PROJECT_DIR$/spring-boot-organization/spring-boot-organization.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" filepath="$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" />
     </modules>
